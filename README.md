@@ -6,7 +6,7 @@ neither side gets right alone.
 These days that means agent-native applications at UiPath. Before that I
 spent eight years at Peak (acquired by UiPath in March 2025)
 where I led the design of the company's first vertical agent and wrote a bunch of memos
-arguing we should bet the company on this stuff.
+arguing we should pivot the company toward this stuff.
 
 I started out as a physicist working on nonlinear dynamics, then spent a
 few years in neuroscience labs trying to figure out how brains learn.
@@ -18,7 +18,7 @@ moving parts adapt, learn, and decide?
 How do you build agent native applications that can make semi-structured decisions within orgs and improve with experience. I think the answer involves taking
 tacit knowledge seriously, and I don't think we're there yet.
 
-### things I've made
+### things I've worked on
 
 - **[Bid Writer Agent](https://peak.ai/agentic-commercial-pricing/bid-writer-agent/)** — the agent that taught me most of what I now believe about building vertical agents. Drafts tender responses, learns from human feedback, asks for help when it doesn't know something.
 - **[Making vertical agents](https://youtu.be/EsfOxT9xnBc)** — talk on what works and what doesn't, based on the year I spent on one.
