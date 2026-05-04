@@ -1,11 +1,11 @@
 ## hi, I'm Abhinav 👋
 
-I build AI systems that work alongside humans on the kinds of decisions
+> I build AI systems that work alongside humans on the kinds of decisions
 neither side gets right alone.
 
 These days that means agent-native applications at UiPath. Before that I
 spent eight years at Peak (acquired by UiPath in March 2025)
-where I led the design of the company's first vertical agent  and wrote a bunch of memos
+where I led the design of the company's first vertical agent and wrote a bunch of memos
 arguing we should bet the company on this stuff.
 
 I started out as a physicist working on nonlinear dynamics, then spent a
@@ -15,7 +15,7 @@ moving parts adapt, learn, and decide?
 
 ### currently chewing on
 
-How do you build agent native applications that can make semi-structured decisions within orgs and improve with experience.  I think the answer involves taking
+How do you build agent native applications that can make semi-structured decisions within orgs and improve with experience. I think the answer involves taking
 tacit knowledge seriously, and I don't think we're there yet.
 
 ### things I've made
@@ -35,4 +35,4 @@ A couple of papers from the lab days, in case you're into that:
 
 [curious-abhinav.github.io](https://curious-abhinav.github.io) ·
 [Linkedin](https://www.linkedin.com/in/abhinav-singh-1447091) ·
-curious.abhinav@gmail.com
+
