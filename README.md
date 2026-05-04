@@ -4,7 +4,7 @@ I build AI systems that work alongside humans on the kinds of decisions
 neither side gets right alone.
 
 These days that means agent-native applications at UiPath. Before that I
-spent eight years at Peak (acquired by UiPath in March 2025) where I
+spent eight years at Peak (acquired by UiPath in March 2025)
 where I led the design of the company's first vertical agent  and wrote a bunch of memos
 arguing we should bet the company on this stuff.
 
@@ -12,6 +12,11 @@ I started out as a physicist working on nonlinear dynamics, then spent a
 few years in neuroscience labs trying to figure out how brains learn.
 Turns out the questions are the same: how do messy systems with lots of
 moving parts adapt, learn, and decide?
+
+### currently chewing on
+
+How do you build agent native applications that can make semi-structured decisions within orgs and improve with experience.  I think the answer involves taking
+tacit knowledge seriously, and I don't think we're there yet.
 
 ### things I've made
 
@@ -26,13 +31,8 @@ A couple of papers from the lab days, in case you're into that:
 - [Finding communities in sparse networks](https://doi.org/10.1038/srep08828), *Scientific Reports* 2015
 - [Medial prefrontal cortex population activity is plastic irrespective of learning](https://doi.org/10.1523/JNEUROSCI.1370-17.2019), *Journal of Neuroscience* 2019
 
-### currently chewing on
-
-How do you build agent native applications that can make semi-structurd decisions within orgs and improve with experience.  I think the answer involves taking
-tacit knowledge seriously, and I don't think we're there yet.
-
 ### find me
 
 [curious-abhinav.github.io](https://curious-abhinav.github.io) ·
-[linkedin](https://www.linkedin.com/in/abhinav-singh-1447091) ·
+[Linkedin](https://www.linkedin.com/in/abhinav-singh-1447091) ·
 curious.abhinav@gmail.com
